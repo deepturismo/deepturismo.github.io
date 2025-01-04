@@ -367,7 +367,8 @@ strong {
 }
 
 .navbar {
-  background: transparent;
+  background-color: #000000;
+  border-bottom: 1px #161616 solid;
   z-index: 9;
 }
 
