@@ -499,10 +499,7 @@ strong {
   ABOUT              
 -----------------------------------------*/
 .about-section {
-  background-image: url('');
   background-color: #111111;
-  background-repeat: no-repeat;
-  background-size: cover;
   position: relative;
 }
 
