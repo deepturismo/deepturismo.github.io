@@ -231,10 +231,10 @@ strong {
 }
 
 .nav-tabs {
-  background-color: var(--section-bg-color);
+  background-color: #0a0a0a;
   border-radius: var(--border-radius-large);
-  border-bottom: 0;
-  padding: 15px;
+  border-bottom: 2px solid #fff;
+  padding: 4px;
 }
 
 .nav-tabs .nav-link {
