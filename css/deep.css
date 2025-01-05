@@ -279,6 +279,11 @@ strong {
 /*---------------------------------------
   CUSTOM BUTTON               
 -----------------------------------------*/
+.btn i {
+  margin-right: 8px;
+  font-size: 1.2em;
+}
+
 .custom-btn {
   background: var(--custom-btn-bg-color);
   border: 2px solid transparent;
