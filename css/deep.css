@@ -297,8 +297,8 @@ strong {
 }
 
 .custom-btn:hover {
-  background: var(--custom-btn-bg-hover-color);
-  color: var(--white-color);
+  background: #fff;
+  color: #000000;
 }
 
 .custom-border-btn {
