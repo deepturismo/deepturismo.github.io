@@ -285,8 +285,8 @@ strong {
 }
 
 .custom-btn {
-  background: var(--custom-btn-bg-color);
-  border: 2px solid transparent;
+  background: #00000000;
+  border: 2px solid #fff;
   border-radius: var(--border-radius-large);
   color: var(--white-color);
   font-size: var(--btn-font-size);
