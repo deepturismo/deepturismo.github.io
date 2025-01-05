@@ -509,7 +509,7 @@ strong {
 }
 
 .about-image {
-  border-radius: var(--border-radius-medium);
+  border-radius: var(--border-radius-small);
   display: block;
 }
 
