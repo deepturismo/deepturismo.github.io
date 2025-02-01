@@ -1,7 +1,7 @@
 :root {
   --white-color:                  #f9f9f9;
   --primary-color:                #F8CB2E;
-  --secondary-color:              #EE5007;
+  --secondary-color:              #ff0050;
   --section-bg-color:             #000000;
   --custom-btn-bg-color:          #EE5007;
   --custom-btn-bg-hover-color:    #c01f27;
@@ -874,7 +874,7 @@ strong {
 }
 
 .social-icon-link {
-  background: var(--secondary-color);
+  background: #ff0050;
   border-radius: var(--border-radius-large);
   color: var(--white-color);
   font-size: var(--copyright-font-size);
@@ -888,7 +888,7 @@ strong {
 }
 
 .social-icon-link:hover {
-  background: var(--primary-color);
+  background: #cc0040;
   color: var(--white-color);
 }
 
