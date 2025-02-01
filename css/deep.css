@@ -2,10 +2,10 @@
   --white-color:                  #f9f9f9;
   --primary-color:                #F8CB2E;
   --secondary-color:              #ff0050;
-  --section-bg-color:             #0a0a0a;
+  --section-bg-color:             #050505;
   --custom-btn-bg-color:          #EE5007;
   --custom-btn-bg-hover-color:    #c01f27;
-  --dark-color:                   #0a0a0a;
+  --dark-color:                   #050505;
   --p-color:                      #717275;
   --border-color:                 #7fffd4;
   --link-hover-color:             #979797;
@@ -231,7 +231,7 @@ strong {
 }
 
 .nav-tabs {
-  background-color: #0a0a0a;
+  background-color: var(--dark-color);
   border-radius: var(--border-radius-large);
   border-bottom: 2px solid #fff;
   padding: 4px;
@@ -367,7 +367,7 @@ strong {
 }
 
 .navbar {
-  background-color: #0a0a0a;
+  background-color: var(--dark-color);
   border-bottom: 1px #161616 solid;
   z-index: 9;
 }
@@ -504,7 +504,7 @@ strong {
   ABOUT              
 -----------------------------------------*/
 .about-section {
-  background-color: #0a0a0a;
+  background-color: var(--dark-color);
   position: relative;
 }
 
@@ -639,7 +639,7 @@ strong {
   SCHEDULE              
 -----------------------------------------*/
 .schedule-section {
-  background-color: #0a0a0a;
+  background-color: var(--dark-color);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
