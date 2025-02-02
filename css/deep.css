@@ -846,6 +846,11 @@ strong {
 
 .site-footer-links {
   padding-left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-wrap: nowrap;
+  flex-direction: row;
 }
 
 .site-footer-link-item {
