@@ -855,6 +855,8 @@ strong {
 }
 
 .copyright-text {
+  display: flex;
+  justify-content: center;
   font-size: var(--copyright-font-size);
   color: #fff;
 }
