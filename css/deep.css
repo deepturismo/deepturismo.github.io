@@ -842,7 +842,6 @@ strong {
 .site-footer-link,
 .copyright-text {
   color: var(--white-color);
-  font-size: 12px;
 }
 
 .site-footer-links {
@@ -851,6 +850,7 @@ strong {
 
 .site-footer-link-item {
   list-style: none;
+  font-size: 12px;
   display: inline-block;
   margin-right: 15px;
 }
