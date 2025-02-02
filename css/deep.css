@@ -842,6 +842,7 @@ strong {
 .site-footer-link,
 .copyright-text {
   color: var(--white-color);
+  font-size: 12px;
 }
 
 .site-footer-links {
