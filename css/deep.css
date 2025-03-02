@@ -397,7 +397,7 @@ strong {
 
 .navbar-nav .nav-link.active, 
 .navbar-nav .nav-link:hover {
-  color: #ff0050;
+  color: #979797;
 }
 
 .navbar-toggler {
@@ -880,9 +880,9 @@ strong {
 }
 
 .social-icon-link {
-  background: #ff0050;
+  background: #ffffff;
   border-radius: var(--border-radius-large);
-  color: var(--white-color);
+  color: var(--black-color);
   font-size: var(--copyright-font-size);
   display: block;
   margin-right: 10px;
