@@ -102,7 +102,7 @@ button {
 
 a {
   display: inline-block;
-  color: var(--primary-color);
+  color: #000000;
   text-decoration: none;
 }
 
@@ -882,7 +882,6 @@ strong {
 .social-icon-link {
   background: #ffffff;
   border-radius: var(--border-radius-large);
-  color: var(--black-color);
   font-size: var(--copyright-font-size);
   display: block;
   margin-right: 10px;
@@ -894,7 +893,7 @@ strong {
 }
 
 .social-icon-link:hover {
-  background: #cc0040;
+  background: #979797;
   color: var(--white-color);
 }
 
