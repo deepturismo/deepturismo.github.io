@@ -554,7 +554,8 @@ strong {
 }
 
 .ticket-form {
-  background: var(--white-color);
+  background: #0a0a0a;
+  border: 1pc #161616 solid;
   border-radius: var(--border-radius-medium);
   padding: 50px;
 }
