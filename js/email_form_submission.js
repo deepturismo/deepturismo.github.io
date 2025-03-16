@@ -1,6 +1,6 @@
 document.getElementById("emailForm").addEventListener("submit", function(e) {
-    e.preventDefault();
-    
+    e.preventDefault(); // Impede o redirecionamento padrão
+
     var email = document.getElementById("email").value;
     var url = "https://script.google.com/macros/s/AKfycbyc87WOWewPAuKp8_BD2hSwEYqUGllWfd94gtrngdf22mHXz6OAWZ405o6bE78hDTC_/exec";
 
@@ -12,5 +12,5 @@ document.getElementById("emailForm").addEventListener("submit", function(e) {
     }).then(() => {
         alert("E-mail cadastrado com sucesso!");
         document.getElementById("email").value = "";
-    }).catch(err => console.error("Erro:", err));
+    }).catch(err => console.error("Erro ao enviar o e-mail:", err));
 });
