@@ -509,7 +509,7 @@ strong {
 }
 
 .about-image {
-  border-radius: var(--border-radius-small);
+  border-radius: 5px;
   display: block;
 }
 
@@ -589,7 +589,7 @@ strong {
 }
 
 .artists-image {
-  border-radius: var(--border-radius-medium);
+  border-radius: 5px;
   display: block;
   width: 100%;
 }
