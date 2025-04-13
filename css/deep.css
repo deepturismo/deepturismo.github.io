@@ -586,12 +586,20 @@ strong {
   position: relative;
   overflow: hidden;
   margin-bottom: 30px;
+  border: 1px #161616 solid;
+  border-radius: 5px;
 }
 
 .artists-image {
   border-radius: 5px;
   display: block;
   width: 100%;
+}
+
+.artists-image-wrap {
+  margin-bottom: 0;
+  border: none;
+  overflow: hidden;
 }
 
 .artists-caption {
