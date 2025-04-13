@@ -594,6 +594,19 @@ strong {
   width: 100%;
 }
 
+.artists-caption {
+  margin-top: -5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-sizing: border-box;
+  padding: 1.5rem;
+  text-align: center;
+  background-color: #0a0a0a;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
 .artists-thumb:hover .artists-hover {
   transform: translateY(0);
   opacity: 1;
