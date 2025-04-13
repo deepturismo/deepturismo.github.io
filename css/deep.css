@@ -102,7 +102,7 @@ button {
 
 a {
   display: inline-block;
-  color: #000000;
+  color: #fff;
   text-decoration: none;
 }
 
@@ -881,21 +881,14 @@ strong {
 }
 
 .social-icon-link {
-  background: #ffffff;
-  border-radius: var(--border-radius-large);
-  font-size: var(--copyright-font-size);
   display: block;
   margin-right: 10px;
   text-align: center;
-  width: 35px;
-  height: 35px;
-  line-height: 36px;
   transition: background 0.2s, color 0.2s;
 }
 
 .social-icon-link:hover {
-  background: #979797;
-  color: var(--white-color);
+  color: #979797;
 }
 
 .social-icon-link span {
