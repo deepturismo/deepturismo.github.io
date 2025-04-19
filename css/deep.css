@@ -233,7 +233,7 @@ strong {
 .nav-tabs {
   background-color: var(--dark-color);
   border-radius: var(--border-radius-large);
-  border: 2px solid #fff;
+  border: 2px solid #ffffff;
   padding: 4px;
 }
 
@@ -264,7 +264,7 @@ strong {
 .nav-tabs .nav-link.active h5,
 .nav-tabs .nav-link:focus h5, 
 .nav-tabs .nav-link:hover h5 {
-  color: var(--primary-color);
+  color: #000000;
 }
 
 
