@@ -233,7 +233,7 @@ strong {
 .nav-tabs {
   background-color: var(--dark-color);
   border-radius: var(--border-radius-large);
-  border-bottom: 2px solid #fff;
+  border: 2px solid #fff;
   padding: 4px;
 }
 
